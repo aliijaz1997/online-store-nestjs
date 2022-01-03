@@ -12,7 +12,7 @@ model Item {
   name   String
   price  String
   type   String
-  inCart Boolean?
+  inCart Boolean
   Image  Image[]
 }
 
